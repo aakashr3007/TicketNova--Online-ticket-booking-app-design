@@ -28,6 +28,7 @@ TicketNova is a modern and user-friendly movie ticket booking mobile application
 
 - Splash Screen
       This is the first screen of the app that introduces the brand TicketNova. It builds a strong first impression with a simple logo and gradient background while the app loads in the background.
+  
    ![SplashScreen](SplashScreen.jpg)
 - Onboarding Screen
 
