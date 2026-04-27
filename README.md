@@ -1,7 +1,6 @@
-# TicketNova--Online-ticket-booking-app-design
-Ui Design of the app 
 
-# 🎬 TicketNova – Movie Ticket Booking App UI
+
+# 🎬 TicketNova – Movie Ticket Booking App UI (Ui Design of the app)
 
 TicketNova is a modern and user-friendly movie ticket booking mobile application UI. It provides a seamless experience for users to browse movies, select cinemas, choose seats, and complete bookings with multiple payment options.
 
@@ -90,7 +89,8 @@ TicketNova is a modern and user-friendly movie ticket booking mobile application
 
 ## 🛠️ Tools Used
 
-- Figma (UI Design)
+- Figma (UI Design) Preview = "https://www.figma.com/proto/WEOtzbvZi65pIdy0wobDTj/TicketNova?t=Sd2ohD2PHW452xDq-1"
+- Case Study (Behance) = "https://www.behance.net/gallery/248337341/TICKETNOVA-"
 
 ---
 
