@@ -28,6 +28,7 @@ TicketNova is a modern and user-friendly movie ticket booking mobile application
 ## 📱 Screens Included
 
 - Splash Screen
+  
    ![Splash Screen](SplashScreen.jpg)
 - Onboarding Screen  
 - Location Selection  
