@@ -29,22 +29,52 @@ TicketNova is a modern and user-friendly movie ticket booking mobile application
 
 - Splash Screen
   
-   ![Splash Screen](SplashScreen.jpg)
-- Onboarding Screen  
-- Location Selection  
-- Login / Signup  
-- Home Screen  
-- Movie Details  
-- Select Cinema  
-- Seat & Show Selection  
-- Ticket Summary  
-- Payment Method  
-- QR Code Payment  
-- Booking Confirmation  
-- Ticket PDF View  
-- History Screen  
-- Profile Screen  
-- Help & Support  
+   ![SplashScreen](SplashScreen.jpg)
+- Onboarding Screen
+
+  ![OnboardingScreen](OnboardingScreen.jpg)
+- Location Selection
+
+  ![LocationScreen](Location.jpg)
+- Login / Signup
+
+  ![SignupScreen](signup.jpg)
+- Home Screen
+
+  ![HomeScreen](HomeScreen.jpg)
+- Movie Details
+
+  ![MovieDetails](MovieDetails.jpg)  
+- Select Cinema
+
+  ![SelectBranch](SelectBranch.jpg) 
+- Seat & Show Selection
+
+  ![SelectTicketScreen](SelectTicket.jpg)
+- Ticket Summary
+
+  ![Summary](Summary.jpg)
+- Payment Method
+
+  ![PaymentScreen](PaymentMethod.jpg) 
+- QR Code Payment
+
+  ![QR Screen](QRPay.jpg)
+- Booking Confirmation
+
+  ![BookingConfrimation](BookingConfrimation.jpg)  
+- Ticket PDF View
+
+  ![pdf](pdf.jpg)
+- History Screen
+
+  ![Histroy Screen](Histroy.jpg)  
+- Profile Screen
+
+  ![profileScreen](Profile.jpg)
+- Help & Support
+
+  ![Help&Supports](Helps&Supports.jpg)
 
 ---
 
